@@ -7,4 +7,3 @@ def print_fibonacci(length):
         fib.append(a)
         a, b = b, a + b
     print(fib)
-    pass
